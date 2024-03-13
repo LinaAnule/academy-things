@@ -1,0 +1,3 @@
+[submodule "person-rest"]
+	path = person-rest
+	url = https://github.com/LinaAnule/person-rest.git
