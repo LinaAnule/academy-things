@@ -1,3 +1,6 @@
 [submodule "person-rest"]
 	path = person-rest
 	url = https://github.com/LinaAnule/person-rest.git
+[submodule "Shape_Area_Calculator"]
+	path = Shape_Area_Calculator
+	url = https://github.com/LinaAnule/Shape_Area_Calculator.git
