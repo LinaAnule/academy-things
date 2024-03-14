@@ -7,3 +7,6 @@
 [submodule "java-basics"]
 	path = java-basics
 	url = https://github.com/LinaAnule/java-basics.git
+[submodule "student-application"]
+	path = student-application
+	url = https://github.com/LinaAnule/student-application.git
