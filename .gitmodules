@@ -4,3 +4,6 @@
 [submodule "Shape_Area_Calculator"]
 	path = Shape_Area_Calculator
 	url = https://github.com/LinaAnule/Shape_Area_Calculator.git
+[submodule "java-basics"]
+	path = java-basics
+	url = https://github.com/LinaAnule/java-basics.git
