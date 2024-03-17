@@ -13,3 +13,6 @@
 [submodule "collections-labs"]
 	path = collections-labs
 	url = https://github.com/LinaAnule/collections-labs.git
+[submodule "Java-API-tasks"]
+	path = Java-API-tasks
+	url = https://github.com/LinaAnule/Java-API-tasks.git
