@@ -10,3 +10,6 @@
 [submodule "student-application"]
 	path = student-application
 	url = https://github.com/LinaAnule/student-application.git
+[submodule "collections-labs"]
+	path = collections-labs
+	url = https://github.com/LinaAnule/collections-labs.git
