@@ -16,3 +16,6 @@
 [submodule "Java-API-tasks"]
 	path = Java-API-tasks
 	url = https://github.com/LinaAnule/Java-API-tasks.git
+[submodule "unit-testing"]
+	path = unit-testing
+	url = https://github.com/LinaAnule/unit-testing.git
