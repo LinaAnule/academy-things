@@ -19,3 +19,6 @@
 [submodule "unit-testing"]
 	path = unit-testing
 	url = https://github.com/LinaAnule/unit-testing.git
+[submodule "account-app"]
+	path = account-app
+	url = https://github.com/LinaAnule/account-app.git
